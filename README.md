@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/ulrack/invocation-extension.svg?branch=master)](https://travis-ci.com/ulrack/invocation-extension)
 
-# Ulrack Kernel
+# Ulrack Invocation Extension
 
 This package contains a plug-and-play extension for any Ulrack project. It adds
 the ability to define invocation within services.
