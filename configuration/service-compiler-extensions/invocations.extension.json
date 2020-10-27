@@ -1,6 +1,6 @@
 {
     "$schema": "service.compiler.extension.schema.json",
-    "class": "\\Ulrack\\InvocationExtension\\Component\\Compiler\\Extension\\InvocationsCompiler",
+    "class": "\\Ulrack\\Services\\Component\\Compiler\\Extension\\PassThroughCompiler",
     "sortOrder": 10,
     "key": "invocations",
     "schema": {
