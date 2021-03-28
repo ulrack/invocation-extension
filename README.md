@@ -1,3 +1,4 @@
+# DEPRECATION NOTICE: this package has been moved and improved at [grizz-it/services](https://github.com/grizz-it/services)
 [![Join us on Discord](https://img.shields.io/discord/753858953452191916.svg?label=Join+us&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/k9KVYqm)
 [![Build Status](https://travis-ci.com/ulrack/invocation-extension.svg?branch=master)](https://travis-ci.com/ulrack/invocation-extension)
 
